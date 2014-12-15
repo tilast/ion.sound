@@ -28,5 +28,6 @@
 
     "spm": {
         "main": "js/ion.sound.js"
-    }
+    },
+    "main": "js/ion.sound.js"
 }
