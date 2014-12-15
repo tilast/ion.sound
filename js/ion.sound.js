@@ -343,3 +343,5 @@ var ion = ion || {};
     };
 
 } (ion));
+
+module.exports = ion;
